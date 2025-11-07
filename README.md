@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matrixier
+- 👋 Hi, I’m Falconier
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on all projects relating to frontend development
